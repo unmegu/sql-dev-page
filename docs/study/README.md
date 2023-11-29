@@ -3,4 +3,4 @@ eYACHO / GEMBA Note を利用して実現できるテクニックを紹介しま
 <!-- 技術寄りの記事 -->
 
 ## 記事一覧
-- [サンプル記事](./sample.md)
+- [サンプル記事](./sample/sample.md)
