@@ -2,7 +2,7 @@ name: textlint
 
 on:
   pull_request:
-    paths: ['docs/articles/**/*.md']
+    paths: ['docs/**/*.md']
 
 jobs:
   textlint:
